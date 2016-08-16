@@ -1,6 +1,7 @@
 asn: 65052
 tech-c:
   - rolf@netzwerkadmins.de
+  - matthias@grwx.at
 networks:
   ipv4:
     - 10.13.144.0/20
